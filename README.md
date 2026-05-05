@@ -7,3 +7,6 @@ git push
 git add .
 git commit -m "Add flower bucket animation with various flowers"
 git push
+git add .
+git commit -m "Add flower bucket animation with various flowers"
+git push
