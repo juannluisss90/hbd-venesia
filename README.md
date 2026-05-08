@@ -19,3 +19,6 @@ git push
 git add .
 git commit -m "Fix CSS syntax error"
 git push
+git add .
+git commit -m "Update website"
+git push
